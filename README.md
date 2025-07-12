@@ -23,7 +23,7 @@ ARP spoofing is used to poison the ARP table of target devices and redirect traf
 
 ---
 
-## ⚙️ Features
+## Features
 
 - Scan your network and list live devices  
 - Block a single target by IP address  
