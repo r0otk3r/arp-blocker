@@ -74,7 +74,8 @@ sudo python3 network_blocker.py -i wlan0 -t 192.168.1.50 -d 15
 sudo python3 network_blocker.py -i wlan0 --block-all -d 30
 ```
 
-<img width="1349" height="621" alt="network" src="https://github.com/user-attachments/assets/c64ab602-19b1-43c6-b1d5-2d21583e44da" />
+<img width="1349" height="538" alt="1network" src="https://github.com/user-attachments/assets/4372fde4-0ed0-4951-9831-be19b3e598cd" />
+
 
 ## ⚠️ Disclaimer
 
