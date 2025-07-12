@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-#Alternative Network Blocker
 #Author: r0otk3r
 
 
